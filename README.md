@@ -47,8 +47,8 @@ We move with the **hacker spirit**:
 ## 🤝 Connect
 We’re always open to **builders, researchers, and visionaries**.  
 
-📧 Contact: `team@idexin.com` (placeholder)  
-🌐 Website: [idexin.com](https://idexin.com) (coming soon)  
+📧 Contact: `info@idexin.com`
+🌐 Website: [idexin.com](https://idexin.com)
 
 ---
 
