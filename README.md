@@ -1,9 +1,5 @@
 # ⚡ IDEXIN — Innovation x Execution
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/idexin/.github/main/assets/logo.png" alt="IDEXIN Logo" width="200"/>
-</p>
-
 > **IDEXIN** is a verified GitHub organization dedicated to building next-generation technology.  
 > We focus on **systems, security, and scalability** — engineered for the future.
 
